@@ -1,0 +1,44 @@
+
+    * {
+        box-sizing: border-box;
+      }
+      
+      div.row {
+        margin-left:400px;
+        margin-right:200px;
+      }
+        
+      div.column {
+        
+        float: left;
+        width: 50%;
+        padding: 150px;
+      }
+      
+      
+      fieldset{
+        width: 100px;
+          color:darkblue;
+          text-align: center;
+        font-size: large;
+          margin-top:21px;
+      
+      background-color:white;
+       border-color: indianred;
+      
+     
+      
+      }
+      
+      
+      table{
+      background:white;
+      max-width: 300px;
+          color:darblue;
+      }
+      button{
+        width: 68px;
+    height: 26px;
+        background-color: rgb(12, 12, 204);
+        color:white;
+      }

@@ -1,0 +1,28 @@
+fieldset.postJob{
+    margin-top: 100px;
+    max-width: 3px;
+    margin-left: auto;
+    margin-right:auto;
+  background-color: white;
+}
+
+input[type=text]
+{
+    min-height: 20px;
+    font-size: 18px;
+}
+
+textarea{
+    min-height: 90px;
+    font-size: 18px;
+    width: 221px;
+}
+input[type=submit]{
+    background-color: darkgreen;
+    color: white;
+    width: 174px;
+    height: 34px;
+}
+h2{
+    text-align: center;
+}
